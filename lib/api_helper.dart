@@ -3,5 +3,5 @@
 /// More dartdocs go here.
 library;
 
-export 'src/api_helper_base.dart';
+export 'src/api_handler.dart';
 
