@@ -15,7 +15,7 @@ Add it to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  api_helper: ^1.0.6
+  api_caller: ^1.0.6
 
 
 import 'package:api_helper/api_helper.dart';
