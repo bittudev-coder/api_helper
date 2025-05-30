@@ -1,4 +1,4 @@
-name: api_handler
+name: api_caller
 description: A lightweight helper for making HTTP API calls using Dart.
 version: 1.0.6
 

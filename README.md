@@ -1,4 +1,4 @@
-# api_helper
+# api_caller
 
 A lightweight and reusable Dart/Flutter utility for making HTTP API requests easier using the `http` package.
 
